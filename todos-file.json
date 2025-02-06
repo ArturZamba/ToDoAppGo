@@ -1,0 +1,67 @@
+[
+     {
+          "Title": "Compra Leite de soja",
+          "Completed": true,
+          "CreatedAt": "2025-02-04T15:07:04.4195572Z"
+     },
+     {
+          "Title": "comprar Pão",
+          "Completed": true,
+          "CreatedAt": "2025-02-04T15:07:04.4195572Z"
+     },
+     {
+          "Title": "Construir Projecto de em golang",
+          "Completed": false,
+          "CreatedAt": "2025-02-04T15:07:04.4195572Z"
+     },
+     {
+          "Title": "assistir reunião",
+          "Completed": false,
+          "CreatedAt": "2025-02-04T16:37:53.8606942Z"
+     },
+     {
+          "Title": "new project",
+          "Completed": false,
+          "CreatedAt": "2025-02-04T17:14:03.3757866Z"
+     },
+     {
+          "Title": "Contruir uma webAPI",
+          "Completed": true,
+          "CreatedAt": "2025-02-05T09:19:15.4807434Z"
+     },
+     {
+          "Title": "Erro ao extrair SAFt no SaaS da NUBRI",
+          "Completed": false,
+          "CreatedAt": "2025-02-05T09:49:07.7516283Z"
+     },
+     {
+          "Title": "Enviar Email de Erro ERP SaaS Evolution ao Sr. Felisberto (NUBRI)",
+          "Completed": true,
+          "CreatedAt": "2025-02-06T11:17:31.0648644Z"
+     },
+     {
+          "Title": "Predifinição de mapa com Logotipo (NUBRI)",
+          "Completed": true,
+          "CreatedAt": "2025-02-06T11:18:17.026135Z"
+     },
+     {
+          "Title": "Ligação entre Utilizador RDP com Utilizador ERP (NUBRI)",
+          "Completed": true,
+          "CreatedAt": "2025-02-06T11:19:00.5257444Z"
+     },
+     {
+          "Title": "Configuração de RDP no PC da Sra. Lidia (NUBRI)",
+          "Completed": true,
+          "CreatedAt": "2025-02-06T11:19:39.0554033Z"
+     },
+     {
+          "Title": "Erro Tempo Limite na Exportação do SAFT [Cegid] (NUBRI)",
+          "Completed": false,
+          "CreatedAt": "2025-02-06T11:23:24.6583019Z"
+     },
+     {
+          "Title": "Organizar Horas do Projecto 2024 [ENGCONSULT]",
+          "Completed": false,
+          "CreatedAt": "2025-02-06T16:07:32.6641119Z"
+     }
+]

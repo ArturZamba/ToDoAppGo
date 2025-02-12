@@ -1,4 +1,4 @@
-Welcome to ToDo app for deveveloper at first time.
+Welcome to ToDo app for developer at first time.
 i build that to for everyone but especially for developer who struggle to registy
 step by step day task in daily routine.
 
